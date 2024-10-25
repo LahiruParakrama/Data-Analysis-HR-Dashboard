@@ -40,7 +40,7 @@ _Data Visualization_ - Power BI
 - Dashboard Interaction [HR_Employee Dashboard Report.pdf](https://github.com/user-attachments/files/17525681/HR_Employee.Dashboard.Report.pdf)
   
   ## Notice That 
-  _! Some data were little bit different considering with other reports with same dataset file. Because of data cleaning.Here I used current date for calculations like birthday._
+  _! Some data were little bit different considering with other reports with same dataset file. Because of data cleaning.Here used current date for calculations of dates like birthday._
 
   ## Limitations
 - Some records had wrong birthdates.Then there were negative ages and these were excluded during querying. Only used the 18 years old or above.
