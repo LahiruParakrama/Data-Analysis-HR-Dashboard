@@ -39,14 +39,14 @@ _Data Visualization_ - Power BI
 - Engineering had the highest number of employees and Auditing had the lowest number of employees.
 - Dashboard Interaction [HR_Employee Dashboard Report.pdf](https://github.com/user-attachments/files/17525681/HR_Employee.Dashboard.Report.pdf)
   
-  ## Notice That 
-  _! Some data were little bit different considering with other reports with same dataset file. Because of data cleaning.Here used current date for calculations of dates like birthday._
+## Notice That 
+_! Some data were little bit different considering with other reports with same dataset file. Because of data cleaning.Here used current date for calculations of dates like birthday._
 
-  ## Limitations
+## Limitations
 - Some records had wrong birthdates.Then there were negative ages and these were excluded during querying. Only used the 18 years old or above.
 - Some termdates were far into the future and were not accept as correct data and not included in the analysis. Only used term dates those were less than or equal to current date.
  
-  ## Final Conclusion
+## Final Conclusion
 Highlights key trends in employee performance, turnover rates, average tenure and satisfaction levels. And this dashboard provides actionable insights for management, facilitating informed decision-making and strategic planning to enhance workforce engagement and retention. Data-driven strategies are essential for continuous improvement.
 
 
