@@ -37,6 +37,8 @@ _Data Visualization_ - Power BI
 - The average tenure for each department is about 8 years with Sales having the highest and Legal, Product, Training and Support having the lowest.
 - The Auditing department has the highest turnover rate(0.18) and the least turn over rate(0.10) are in the Marketing, Business Development and Services departments.
 - Engineering had the highest number of employees and Auditing had the lowest number of employees.
+- Dashboard Interaction [HR_Employee Dashboard Report.pdf](https://github.com/user-attachments/files/17525681/HR_Employee.Dashboard.Report.pdf)
+
 
   ## Notice that 
   _! Some data were little bit different considering with other reports with same dataset file. Because of data cleaning.Here I used current date for calculations like birthday._
