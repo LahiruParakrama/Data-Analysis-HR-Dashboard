@@ -12,7 +12,7 @@ _Data Cleaning & Analysis_ - MySQL Workbench
 
 _Data Visualization_ - Power BI
 
-# Questions
+## Questions
 1. What is the gender breakdown of employees in the company?
 2. What is the race/ethnicity breakdown of employees in the company?
 3. What is the age distribution of employees in the company?
@@ -24,6 +24,8 @@ _Data Visualization_ - Power BI
 9. What is the distribution of employees across locations by state?
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
+
+
 
 
 
