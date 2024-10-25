@@ -1,4 +1,4 @@
-# Data-Analysis-HR-Dashboard (MySQL workbench,Power BI)
+# Data-Analysis-HR-Dashboard (MySQL Workbench,Power BI)
 ## Project Objective
 The main objective is understand about HR employee among different states and categorized them under gender and who currently working and who terminated since 2000 to 2020.
 
@@ -6,7 +6,7 @@ The main objective is understand about HR employee among different states and ca
 ![Screenshot (2)](https://github.com/user-attachments/assets/a055c86b-e55e-4a33-b5eb-f6b0c59b5249)
 
 ## Data Used
-_Dataset_ - [Human Resources.csv](https://github.com/user-attachments/files/17524254/Human.Resources.csv) (HR data year 2000 to 2020).
+_Dataset_ - [Human Resources.csv](https://github.com/user-attachments/files/17524254/Human.Resources.csv) (HR data from the year 2000 to 2020).
 
 _Data Cleaning & Analysis_ - MySQL Workbench
 
@@ -46,6 +46,9 @@ _Data Visualization_ - Power BI
   ## Limitations
   - Some records had wrong birthdates.Then there were negative ages and these were excluded during querying. Only used the 18 years old or above.
   - Some termdates were far into the future and were not accept as correct data and not included in the analysis. Only used term dates those were less than or equal to current date.
+ 
+  ## Final Conclusion
+Highlights key trends in employee performance, turnover rates, average tenure and satisfaction levels. And this dashboard provides actionable insights for management, facilitating informed decision-making and strategic planning to enhance workforce engagement and retention. Data-driven strategies are essential for continuous improvement.
 
 
 
