@@ -25,7 +25,18 @@ _Data Visualization_ - Power BI
 10. How has the company's employee count changed over time based on hire and term dates?
 11. What is the tenure distribution for each department?
 
-
+## Summary of Dashboard
+- The average length of employment for terminated employees is around 8 years.
+- Most number of employees are male.
+- Most number of employees works at the headquarters versus remotely.
+- The net change of employees were increased day by day.When reached to the 2020 it's 96.4.
+- Highest number of employees come from the state of Ohio.
+- White race is the most dominant while Native Hawaiian and American Indian are the least dominant.
+- Considering about ages, there were 5 age groups created (18-24, 25-34, 35-44, 45-54, 55-64). Lot of employees were under age 25-34 and 35-44 while least number of employees under age 55-64.
+- The youngest employee is 20 years old and the oldest is 57 years old.
+- The average tenure for each department is about 8 years with Sales having the highest and Legal, Product, Training and Support having the lowest.
+- The Auditing department has the highest turnover rate(0.18) and the least turn over rate(0.10) are in the Marketing, Business Development and Services departments.
+- Engineering had the highest number of employees and Auditing had the lowest number of employees.
 
 
 
