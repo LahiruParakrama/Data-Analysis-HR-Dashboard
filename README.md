@@ -7,7 +7,9 @@ The main objective is understand about HR employee among different states and ca
 
 ## Data Used
 Dataset - [Human Resources.csv](https://github.com/user-attachments/files/17524254/Human.Resources.csv)(HR data year 2000 to 2020).
+
 Data Cleaning & Analysis - MySQL Workbench
+
 Data Visualization - Power BI
 
 
