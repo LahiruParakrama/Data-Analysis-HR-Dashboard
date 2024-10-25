@@ -38,5 +38,8 @@ _Data Visualization_ - Power BI
 - The Auditing department has the highest turnover rate(0.18) and the least turn over rate(0.10) are in the Marketing, Business Development and Services departments.
 - Engineering had the highest number of employees and Auditing had the lowest number of employees.
 
+  ## Notice that 
+  _! Some data were little bit different considering with other reports with same dataset file. Because of data cleaning.Here I used current date for calculations like birthday._
+
 
 
